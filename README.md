@@ -13,6 +13,6 @@ El código es original de [KTByte][1], y ha sido adaptado, comentado y explicado
 
 
 [1]: https://www.ktbyte.com/java-tutorial/game-walkthroughs
-[2]: https://github.com/lexluthorz
+[2]: https://github.com/sergiolmacia
 [3]: http://www.geekyjuegos.com
 [4]: https://processing.org/
